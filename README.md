@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+GITHUB;I'M+mswharry;Cybersecurity+Student;CTF+%26+Pentest+Learner" alt="Typing SVG">
+<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+GITHUB;I'M+mswharry;Cybersecurity+Student;CTF+%26+SOC+Learner" alt="Typing SVG">
 
 ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;CTF+Player;Aspiring+Pentester;Learning+Ethical+Hacking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;CTF+Player;Security+Fresher;Learning+Security+Operation" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ mswharry = {
     "name": "Vũ Đặng Hải Đăng",
     "role": "Cybersecurity Student",
     "location": "Hà Nội, Việt Nam 🇻🇳",
-    "interests": ["CTF", "Web Security", "Pentesting"],
+    "interests": ["CTF", "Security Analyst", "DFIR"],
     "current_focus": "Learning ethical hacking & CTF challenges",
     "learning_path": ["OWASP Top 10", "Linux Privilege Escalation", "Web App Pentesting"],
     "fun_fact": "Breaking things to learn how they work 🔓"
